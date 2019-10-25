@@ -1,4 +1,4 @@
-# google_auth
+# google authenticator
 google authenticator
 
 ## Usage
